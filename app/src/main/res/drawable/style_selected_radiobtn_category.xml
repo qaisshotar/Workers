@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+
+        <shape xmlns:android="http://schemas.android.com/apk/res/android"
+            android:padding="10dp"
+            android:shape="rectangle">
+
+            <solid android:color="@color/MainColorLite" />
+
+            <corners android:radius="360dp"
+                />
+            <stroke
+                android:width="1dp"
+                android:color="@color/MainColorLite" />
+<padding android:right="30dp"></padding>
+        </shape>
+
+    </item>
+    <item
+        android:drawable="@drawable/ic_check_circle_black"
+        android:gravity="center|end"
+        android:height="20dp"
+        android:width="20dp"
+        android:end="-27dp">
+    </item>
+</layer-list>

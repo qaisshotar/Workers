@@ -1,0 +1,15 @@
+com.nex3z.flowlayout
+attr flChildSpacing
+attr flChildSpacingForLastRow
+attr flFlow
+attr flMaxRows
+attr flMinChildSpacing
+attr flRowSpacing
+attr flRowVerticalGravity
+attr flRtl
+id align
+id auto
+id bottom
+id center
+id top
+styleable FlowLayout android_gravity flChildSpacing flChildSpacingForLastRow flFlow flMaxRows flMinChildSpacing flRowSpacing flRowVerticalGravity flRtl

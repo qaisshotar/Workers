@@ -1,0 +1,59 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.nex3z",
+    "module": "flow-layout",
+    "version": "1.3.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.5",
+      "buildId": "lj4qfjdtlzf3dgn76kczb73wye"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "flow-layout-1.3.0.aar",
+          "url": "flow-layout-1.3.0.aar",
+          "size": 8254,
+          "sha512": "85f9f9405dcb45531c849755c194963d6f14f9473bfa9844b5e40a2fc128696147d6bf96eb6349ce2163bdbc8b503fd3f1f131b05d923ea9282bfd8eaa4e9644",
+          "sha256": "571d69da208c7b473bdb0b754ca516bc24a503935fcd5526c9e4213a45676bad",
+          "sha1": "81cdc24a242981fb49e2b151ff963063a751e611",
+          "md5": "551b3a1fbb249a5be32fa5e658d236ae"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flow-layout-1.3.0.aar",
+          "url": "flow-layout-1.3.0.aar",
+          "size": 8254,
+          "sha512": "85f9f9405dcb45531c849755c194963d6f14f9473bfa9844b5e40a2fc128696147d6bf96eb6349ce2163bdbc8b503fd3f1f131b05d923ea9282bfd8eaa4e9644",
+          "sha256": "571d69da208c7b473bdb0b754ca516bc24a503935fcd5526c9e4213a45676bad",
+          "sha1": "81cdc24a242981fb49e2b151ff963063a751e611",
+          "md5": "551b3a1fbb249a5be32fa5e658d236ae"
+        }
+      ]
+    }
+  ]
+}

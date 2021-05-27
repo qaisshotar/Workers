@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:tools="http://schemas.android.com/tools"
+    android:color="@color/cardview_light_background"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:targetApi="lollipop">
+    <item>
+        <shape android:shape="rectangle">
+            <stroke
+                android:width="1px"
+                android:color="@color/MainColor"/>
+            <solid android:color="#00FFFFFF"/>
+            <corners android:radius="5dp"/>
+        </shape>
+    </item>
+</ripple>

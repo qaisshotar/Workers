@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="MainColor">#54759E</color>
+    <color name="MainColor70">#9954759E</color>
+    <color name="Sec_Color">#3e3e3f</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="whiteDark">#FAFAFA</color>
+    <color name="MainColorLite">#E9EDF3</color>
+    <color name="Error">#871719</color>
+    <color name="orange">#FFB400</color>
+    <color name="red">#DD5145</color>
+    <color name="green">#819830</color>
+    <color name="red_h">#F60000</color>
+    <color name="green_h">#50D802</color>
+</resources>
